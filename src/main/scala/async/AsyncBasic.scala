@@ -1,8 +1,7 @@
 package main.scala.async
 
-import scala.concurrent.Future
-
 import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent.Future
 
 /**
  * You have 2 webservices, we want to compute the sum of the 2 webservice call.

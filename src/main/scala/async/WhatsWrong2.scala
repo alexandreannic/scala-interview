@@ -1,8 +1,7 @@
 package main.scala.async
 
-import scala.concurrent.Future
-
 import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent.Future
 
 case class CEO(id: String, first_name: String, last_name: String)
 

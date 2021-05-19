@@ -1,7 +1,5 @@
 package main.scala.basic
 
-import scala.collection.immutable.HashSet
-
 /**
  * What is the complexity of the function ?
  *
